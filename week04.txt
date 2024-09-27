@@ -4,3 +4,4 @@
 - Go 환경 셋업
 	Go 컴파일러 설치
 	VSC 셋업
+- conflict  트러블 슈팅
